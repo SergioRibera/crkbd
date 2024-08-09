@@ -15,6 +15,8 @@ Crkbd stands for Corne Keyboard.
   - v4 Hotswappable ([JP](docs/corne-chocolate/v4/buildguide_jp.md)/[EN](docs/corne-chocolate/v4/buildguide_en.md)):
   - v4 Soldering (will be released)
 
+- [Corne v4 Cherry Wireless](./pcbs/cherry-wireless)
+
 ## Old versions
 
 - corne-classic: for Cherry MX compatible switches 
