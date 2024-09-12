@@ -27,6 +27,7 @@ This project is a customized fork of the popular Corne ergonomic keyboard.
 - TypeC USB
 - NiceView connector
 - Removed extra keys added in v4
+- Removed TRRS?
 
 > [!NOTE]
 > According to the engineer in charge, all components available at LCSC JLCPCB were used.
